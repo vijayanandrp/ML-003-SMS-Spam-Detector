@@ -1,6 +1,6 @@
 # SMS Spam detection - prediction using machine learning
 
-Visit [https://informationcorners.com/text-sms-spam-classifier/https://informationcorners.com/text-sms-spam-classifier/](https://informationcorners.com/text-sms-spam-classifier/)
+Visit (https://informationcorners.com/text-sms-spam-classifier/)[https://informationcorners.com/text-sms-spam-classifier]
 
 #### spam_predict_1.py
 
